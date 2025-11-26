@@ -1,0 +1,29 @@
+table, th, td {
+    border: 1px solid #333;
+}
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    padding: 8px;
+    text-align: left;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+.btn_edit {
+    background-color: #ffc107; 
+    color: black;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+}
+.btn_del {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+}
